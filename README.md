@@ -31,6 +31,7 @@ Recommended is to start off by presenting the data in a clean way through react 
 Other ways you could approach this task (OBS! You are not meant to do ALL of these):
 * Delete/Update articles
 * Present the authors of the articles
+* Stylise the articles and feed in a nice way
 * Group articles based on type
 * Add filter/search
 * Add/Edit the API with proper error handling

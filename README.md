@@ -28,7 +28,7 @@ You are free to explore the application in which ever way possible. Inside the s
 
 Recommended is to start off by presenting the data in a clean way through react components.
 
-Other ways you could approach this task (OBS! You are not meant to do ALL of these):
+Other ways you could approach this task (OBS! You are NOT meant to do all of these. They are only ideas):
 * Delete/Update articles
 * Present the authors of the articles
 * Stylise the articles and feed in a nice way

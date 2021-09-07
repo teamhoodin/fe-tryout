@@ -4,7 +4,7 @@
 
 Install Node.js
 
-Preferably a client to open a sqlite database, like TablePlus
+Preferably a client to open an sqlite database, like TablePlus.
 
 ## Installation
 

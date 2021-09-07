@@ -2,9 +2,9 @@
 
 ## Pre-installation
 
-Install Node.js
+Install [Node.js](https://nodejs.org/en/)
 
-Preferably a client to open an sqlite database, like TablePlus.
+Preferably a client to open an sqlite database, like [TablePlus](https://tableplus.com/).
 
 ## Installation
 
@@ -28,7 +28,7 @@ You are free to explore the application in which ever way possible. Inside the s
 
 Recommended is to start off by presenting the data in a clean way through react components.
 
-Other ways you could approach this task:
+Other ways you could approach this task (OBS! You are not meant to do ALL of these):
 * Delete/Update articles
 * Present the authors of the articles
 * Group articles based on type

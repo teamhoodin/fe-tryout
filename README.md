@@ -3,6 +3,7 @@
 ## Pre-installation
 
 Install Node.js
+
 Preferably a client to open a sqlite database, like TablePlus
 
 ## Installation
@@ -18,11 +19,14 @@ Preferably a client to open a sqlite database, like TablePlus
 ## The application
 
 This application is a barebone node server running express.js with access to a serverless sqlite db called tryout.db.
+
 The client is running react with sass.
 
 ## Your task
 
-You are free to explore the application in which ever way possible. Inside the server.js file are a few simple CRUD endpoints for the table "articles" in tryout.db. Recommended is to start off by presenting the data in a clean way through react components.
+You are free to explore the application in which ever way possible. Inside the server.js file are a few simple CRUD endpoints for the table "articles" in tryout.db. 
+
+Recommended is to start off by presenting the data in a clean way through react components.
 
 Other ways you could approach this task:
 * Delete/Update articles

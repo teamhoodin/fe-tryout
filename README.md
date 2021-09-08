@@ -4,6 +4,8 @@
 
 Install [Node.js](https://nodejs.org/en/)
 
+Install [Yarn](https://www.npmjs.com/package/yarn)
+
 Preferably a client to open an sqlite database, like [TablePlus](https://tableplus.com/).
 
 ## Installation

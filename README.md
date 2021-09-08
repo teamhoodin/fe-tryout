@@ -10,7 +10,7 @@ Preferably a client to open an sqlite database, like [TablePlus](https://tablepl
 
 1. git clone https://github.com/teamhoodin/fe-tryout.git
 2. cd into project
-3. Yarn install > yarn start
+3. yarn install > yarn start
 
 4. Open a new terminal
 5. cd client > yarn install > yarn start

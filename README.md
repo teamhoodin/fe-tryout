@@ -16,7 +16,7 @@ Preferably a client to open an sqlite database, like [TablePlus](https://tablepl
 
 4. Open a new terminal
 5. cd client > yarn install > yarn start
-6. Visit localhost:3000
+6. Visit http://localhost:3001
 
 ## The application
 
@@ -26,7 +26,7 @@ The client is running react with sass.
 
 ## Your task
 
-You are free to explore the application in which ever way possible. Inside the server.js file are a few simple CRUD endpoints for the table "articles" in tryout.db. 
+You are free to explore the application in which ever way possible. Inside the server.js file are a few simple CRUD endpoints for the table "articles" in tryout.db.
 
 Recommended is to start off by presenting the data in a clean way through react components.
 
